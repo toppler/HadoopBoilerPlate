@@ -1,6 +1,3 @@
 target/*
-.idea\*
-.idea\*.xml
 *.xml
-.idea/*.xml
 .idea
