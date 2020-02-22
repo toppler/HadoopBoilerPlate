@@ -1,2 +1,7 @@
 add install.txt
 more info
+<<<<<<< HEAD
+=======
+modify the second file too
+msg
+>>>>>>> 9a84c052959a59901a7e2d6acadbe0a29bdc1915
