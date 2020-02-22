@@ -1,0 +1,4 @@
+add install.txt
+more info
+modify the second file too
+msg
